@@ -1,0 +1,25 @@
+/* styles.css */
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+canvas {
+  border: 1px solid black;
+}
+
+.color-button {
+  width: 2em;
+  height: 2em;
+}
+
+#clear-button {
+  font-size: 1em;
+  width: 2em;
+  height: 2em;
+  margin: 0em;
+}
